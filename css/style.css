@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.col {
+  	padding: 3em 5vw;
+	float: left;
+	width: 25%;
+	background-color:#BFD6FE;
+	height: 50vh;
+	text-align: center;
+}
+.col .counter-number {
+	margin-top: 10vh;
+  line-height: 48px;
+  font-size: 48px;
+  font-weight: bold;
+  color: #ED9E19;
+}
+.col .counter-title {
+  color: #424242;
+}
+.col .counter-title strong {
+  display: block;
+  font-size: 1.2rem;
+}
